@@ -1,0 +1,6 @@
+print("hello ,world")
+print("enter two nubers")
+a,b=int(input())
+# b=int(input())
+# print(f"sum is {a+b}")
+print("sum is ",a+b)
